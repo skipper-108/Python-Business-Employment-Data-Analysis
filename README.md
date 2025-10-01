@@ -8,7 +8,7 @@
                                                   Fig 2: Percentage Difference in Filled Jobs and Earnings by Industry December 2022
 
 
-![Heatmap of Percentage Difference in Filled Jobs Across Industries and Quarters]()
+![Heatmap of Percentage Difference in Filled Jobs Across Industries and Quarters](percentage_difference_dec_2022.png)
                                                   Fig 3: Heatmap of Percentage Difference in Filled Jobs Across Industries and Quarters
 
 ## Dataset Overview
