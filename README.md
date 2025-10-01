@@ -4,7 +4,7 @@
 ![Trend of Filled Jobs Across Quarters by Industry](trend_filled_jobs.png)
                                                    Fig 1: Trend of Filled Jobs Across Quarters by Industry
 
-![Percentage Difference in Filled Jobs and Earnings by Industry December 2022]()
+![Percentage Difference in Filled Jobs and Earnings by Industry December 2022](heatmap_filled_jobs_difference.png)
                                                   Fig 2: Percentage Difference in Filled Jobs and Earnings by Industry December 2022
 
 
