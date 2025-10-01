@@ -1,7 +1,7 @@
 # Business Employment Data Analysis (Up to 2023)
 
 # :man_student:Dashboard::atom:
-![Trend of Filled Jobs Across Quarters by Industry]()
+![Trend of Filled Jobs Across Quarters by Industry](trend_filled_jobs.png)
                                                    Fig 1: Trend of Filled Jobs Across Quarters by Industry
 
 ![Percentage Difference in Filled Jobs and Earnings by Industry December 2022]()
